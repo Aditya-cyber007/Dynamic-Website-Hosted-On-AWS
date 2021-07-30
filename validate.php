@@ -31,7 +31,7 @@ while(!feof($file))
 		$ques_num=(($str_arr[3])%20) + 1;
 		echo "<h2>Welcome ".$_SESSION['name']."</h2><br>";
                 echo "Your Job Application number for <b><u> STATUS INFOTAINMENT</u></b> is ".$str_arr[3];
-                echo "<center><h2>".file_get_contents( "questions/".$ques_num.".txt" )."</h2></center>" ;
+                echo "<center><h2>".file_get_contents( $ques_num.".txt" )."</h2></center>" ;
 		
 ?>
 
