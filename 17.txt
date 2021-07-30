@@ -1,0 +1,1 @@
+Write a Java Program to check Armstrong number.
