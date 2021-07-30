@@ -1,0 +1,5 @@
+Aditya::12345::aditya@gmail.com::1000::
+Manas::12345::manas@gmail.com::1001::
+Raman::12345::raman@gmail.com::1002::
+Abhishek::12345::abhishek@gmail.com::1003::
+jitesh::gatik::jitesh@gmail.com::1004::
