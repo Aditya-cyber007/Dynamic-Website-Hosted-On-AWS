@@ -1,5 +1,5 @@
 # Dynamic-Website-Hosted-On-AWS
-This is my first dynamic website which i have hosted on AWS server.
+This is my first dynamic website which i have hosted on AWS server for some time.
 
 link : http://statusinfotainament.epizy.com/
 
