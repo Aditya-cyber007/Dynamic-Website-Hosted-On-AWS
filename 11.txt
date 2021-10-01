@@ -1,2 +1,2 @@
-Write a Java Program to demonstrate an explicit wait condition check? nice
+Write a Java Program to demonstrate an explicit wait condition check? nice is good.
 
