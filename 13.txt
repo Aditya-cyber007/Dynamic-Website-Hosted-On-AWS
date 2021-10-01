@@ -1,1 +1,1 @@
-Write a Java Program to open all links of gmail.com.
+Write a Java Program to open all links of gmail.com. and ignore other mails.
